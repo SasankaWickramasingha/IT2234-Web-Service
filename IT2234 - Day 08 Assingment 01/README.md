@@ -60,3 +60,9 @@ Make sure the server is running when testing the above routes.
 ## ✅ You're All Set!
 
 You can now continue building your application and testing it using Postman. Happy developing! 🎉
+
+## output
+![Screenshot 2025-04-09 220759](https://github.com/user-attachments/assets/20dffea7-453d-4d0b-8668-e249b2e66724)
+![Screenshot 2025-04-09 220630](https://github.com/user-attachments/assets/afe3671e-7b72-4440-8f74-1eaef5d1d410)
+![Screenshot 2025-04-09 220440](https://github.com/user-attachments/assets/bbf3f2ee-313a-4d32-95d9-b565e260638c)
+
